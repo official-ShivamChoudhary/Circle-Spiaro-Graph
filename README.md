@@ -1,3 +1,4 @@
 # python-Spiro-Graph
 # Graphics Design 
-![spiro graph](https://user-images.githubusercontent.com/72095437/181934337-5dfa9ae0-d7ca-4bbe-b74f-f11b317f15bb.png)
+
+![spirograph](https://user-images.githubusercontent.com/72095437/181935516-f2e863a0-ed73-4e46-bd32-1c77f8723e7e.png)
